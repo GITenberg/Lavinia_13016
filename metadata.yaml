@@ -1,0 +1,30 @@
+_repo: Lavinia_13016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sand, George
+    aliases:
+    - Dupin, Amandine-Aurore-Lucile
+    - Dupin, Armandine Aurore Lucille
+    - Dudevant, Amandine-Aurore-Lucile
+    birthdate: 1804
+    deathdate: 1876
+    gutenberg_agent_id: '851'
+    url: http://www.gutenberg.org/2009/agents/851
+    wikipedia: http://en.wikipedia.org/wiki/George_Sand
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13016'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French fiction'
+- GITenberg
+title: Lavinia
+url: http://www.gutenberg.org/ebooks/13016
